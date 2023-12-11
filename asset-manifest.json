@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.1aaba2c2.css",
+    "main.js": "/Portfolio/static/js/main.389de117.js",
+    "static/media/Blogger.png": "/Portfolio/static/media/Blogger.7892b80040dd2bc24da5.png",
+    "static/media/kich-img.png": "/Portfolio/static/media/kich-img.90b131a1e58d3a65171d.png",
+    "static/media/To-Do.png": "/Portfolio/static/media/To-Do.517fe12fe87e95300b15.png",
+    "static/media/left.png": "/Portfolio/static/media/left.49ff48e3349f78a7665d.png",
+    "static/media/top.png": "/Portfolio/static/media/top.4e968ec2236ce87fb970.png",
+    "index.html": "/Portfolio/index.html",
+    "main.1aaba2c2.css.map": "/Portfolio/static/css/main.1aaba2c2.css.map",
+    "main.389de117.js.map": "/Portfolio/static/js/main.389de117.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1aaba2c2.css",
+    "static/js/main.389de117.js"
+  ]
+}
